@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "factory_checklist_app"
+		},
+		{
+			"path": ".venv"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "__pycache__"
+		},
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "instance"
+		},
+		{
+			"path": "logs"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "static"
+		},
+		{
+			"path": "templates"
+		},
+		{
+			"path": "uploads"
+		}
+	],
+	"settings": {}
+}
